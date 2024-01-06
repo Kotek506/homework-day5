@@ -56,7 +56,7 @@ foreach (char l in letters)
         count9++;
     }
 }
-
+Console.WriteLine("wyniki dla liczby " + number);
 Console.WriteLine("0 => " + count0);
 Console.WriteLine("1 => " + count1);
 Console.WriteLine("2 => " + count2);
